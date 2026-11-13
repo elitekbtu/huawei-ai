@@ -50,3 +50,6 @@ Thumbs.db
 
 # Lab 3 dataset (downloaded by the notebook)
 lab3/data/
+
+# Lab 4 dataset (downloaded by the notebook)
+lab4/data/
