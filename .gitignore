@@ -47,3 +47,6 @@ Thumbs.db
 # Logs and local caches
 *.log
 .cache/
+
+# Lab 3 dataset (downloaded by the notebook)
+lab3/data/
